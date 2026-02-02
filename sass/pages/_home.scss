@@ -1,0 +1,35 @@
+.hero {
+  @include flex-center;
+  flex-direction: column;
+  text-align: center;
+  padding: 4rem 0;
+
+  &__title {
+    font-size: 2rem;
+  }
+
+  &__subtitle {
+    margin-top: .5rem;
+  }
+
+  &__button {
+    margin-top: $spacing-medium;
+  }
+}
+
+.features {
+  padding: 2rem;
+  background: #fff;
+
+  &__title {
+    font-weight: bold;
+  }
+
+  &__card {
+    transition: transform .3s;
+
+    &:hover {
+      transform: translateY(-5px);
+    }
+  }
+}

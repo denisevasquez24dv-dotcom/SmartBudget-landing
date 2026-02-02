@@ -1,0 +1,15 @@
+@import "abstracts/variables";
+@import "abstracts/mixins";
+@import "base/reset";
+@import "base/typography";
+@import "layout/header";
+@import "components/nav";
+@import "components/button";
+@import 'components/features';
+@import "pages/home";
+
+body {
+  font-family: $font-main;
+  background-color: $background-color;
+  color: $text-color;
+}
