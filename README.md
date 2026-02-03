@@ -28,7 +28,9 @@ Se implemento el patrón 7-1 para organizar los estilos del sitio lo que permite
 Capturas de pantalla del navegador:
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4ef45187-0985-47a6-acb1-c2d849cffcd4" />
+
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d833d0c7-1d33-4be1-9aa4-7d8f0bf39b9c" />
+
 <img width="1366" height="30" alt="image" src="https://github.com/user-attachments/assets/0e8ce5f3-3883-4a9e-b927-b28104509bee" />
 
 
