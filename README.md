@@ -1,5 +1,10 @@
 SmartBudget Gestión de Finanzas Personales 
+
 SmartBudget es un landing page moderna y profesional diseñada para ayudar a los usuarios a tomar el control de sus finanzas, integrando metodologías avanzadas de maquetación, preprocesadores de CSS y framework responsivos.
+
+Enlaces de entrega:
+Link del Repositorio: https://github.com/denisevasquez24dv-dotcom/SmartBudget-landing
+Link de despliegue:  https://denisevasquez24dv-dotcom.github.io/SmartBudget-landing/
 
 El rol del desarrollador Front-end
 -Fue actuar como el puente crítico entre el diseño conceptual y una solución tecnológica funcional. Mi responsabilidad no consistió solo en replicar la estética visual, sino además garantizar una arquitectura de código solida mediante SASS y BEM, asegurar que la interfaz sea accesible y semántica y optimizar la experiencia responsiva.
