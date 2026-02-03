@@ -31,8 +31,7 @@ Capturas de pantalla del navegador:
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d833d0c7-1d33-4be1-9aa4-7d8f0bf39b9c" />
 
-<img width="1366" height="30" alt="image" src="https://github.com/user-attachments/assets/0e8ce5f3-3883-4a9e-b927-b28104509bee" />
-
+<img width="502" height="729" alt="image" src="https://github.com/user-attachments/assets/85a3cdd1-07de-4a17-a2cf-116ea50bca31" />
 
 
 Denise Vásquez Espinoza 
