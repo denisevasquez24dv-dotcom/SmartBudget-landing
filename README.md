@@ -19,16 +19,18 @@ Para este proyecto se utilizaron herramientas estándar de la industria para gar
 -Git y Git hub: Control de versiones.
 
 Metodología y organización 
-Nomenclatura he implementado BEM para el nombrado de clases, ya que me permitió mantener la independencia de los componentes y así evitar que los estilos globales afecten a elementos específicos de forma no deseada.
+Se implemento nomenclatura Block element modifier (BEM) para asegurar que las clases de CSS sean claras y reutilizables, ya que me permitió mantener la independencia de los componentes y así evitar que los estilos globales afecten a elementos específicos de forma no deseada.
 
 Arquitectura SASS (PATRÓN 7-1)
-Se implemento el patrón 7-1 para organizar los estilos del sitio lo que permite una escalabilidad real del proyecto, la estructura se divide de la siguiente manera:
+Se implemento el patrón 7-1 para organizar los estilos del sitio lo que permite una escalabilidad real del proyecto y para gestionar los estilos de forma modular, esta extructura ademas permite mantener el codigo organizado facilitando el mantenimiento y la escalabilidad del proyecto al separar variables, mixins y componentes en archivos independientes, la estructura se divide de la siguiente manera:
 -Abtract contiene _variables.scss (colores fuentes) y _mixins.scss
 -Base: archivos de _reset.scss y _typography.scss para estilos globales.
 -Layout: estructura fija del sitio como _header.scss
 -Components: Pieza reutilizable como _button.scss, _feature.scss y _nav.scss-
 -Pages: Estilos específicos para la página _home.scss.
 -themes y vendors: incorporado como placeholders para asegurar que el proyecto este listo para futuras integraciones y librerías externas. 
+
+Se implemento Bootstrap, se integro este framework para acelerar el desarrollo del diseño responsivo y aprovechar componentes robustos y accesibles, como el Modal utilizado en el formulario de registro, garantizando una experiencia de usuario en cualquier dispositivo. 
 
 Capturas de pantalla del navegador:
 
