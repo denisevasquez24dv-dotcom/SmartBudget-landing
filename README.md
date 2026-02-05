@@ -19,7 +19,7 @@ Para este proyecto se utilizaron herramientas estándar de la industria para gar
 -Git y Git hub: Control de versiones.
 
 Metodología y organización 
-Se implemento nomenclatura Block element modifier (BEM) para asegurar que las clases de CSS sean claras y reutilizables, ya que me permitió mantener la independencia de los componentes y así evitar que los estilos globales afecten a elementos específicos de forma no deseada.
+Se implemento nomenclatura Block Element Modifier (BEM) para asegurar que las clases de CSS sean claras y reutilizables, ya que me permitió mantener la independencia de los componentes y así evitar que los estilos globales afecten a elementos específicos de forma no deseada.
 
 Arquitectura SASS (PATRÓN 7-1)
 Se implemento el patrón 7-1 para organizar los estilos del sitio lo que permite una escalabilidad real del proyecto y para gestionar los estilos de forma modular, esta extructura ademas permite mantener el codigo organizado facilitando el mantenimiento y la escalabilidad del proyecto al separar variables, mixins y componentes en archivos independientes, la estructura se divide de la siguiente manera:
